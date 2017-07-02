@@ -1,0 +1,20 @@
+{
+    "All": "Всички",
+    "Error": "Грешка",
+    "No category": "Без категория",
+    "No description available": "Няма налично описане",
+    "No items were found": "Не е открито нищо",
+    "Playlist is reloading in the background, please wait": "Плейлистата се презарежда във фонов режим, зчакайте",
+    "Playlist reloaded successfully": "Плейлистат е успешно презаредена",
+    "Preferences": "Предпочитания",
+    "Program guide is reloading in the background, please wait": "Телевизионната програма се презарежда във фонов режим, зчакайте",
+    "Program guide reloaded successfully": "Телевизионната програма е успешно презаредена",
+    "Provided playlist files are invalid, missing or empty, check the log file for more information": "Зададените плейлист файлове са невалидни, липсват или са празни, проверете лога за повече информация",
+    "Provided program guide files are invalid, missing or empty, check the log file for more information": "Телевизионни програми файлове са невалидни, липсват или са празни, проверете лога за повече информация",
+    "Reload playlist": "Презареждане на плейлиста",
+    "Reload program guide": "Презареждане на телевизионна програма",
+    "Search": "Търсене",
+    "Success": "Успех",
+    "View playlist": "Преглед на плейлиста",
+    "Warning": "Внимание"
+}
